@@ -4,4 +4,4 @@ tags={
 	"Culture"
 }
 name="Slightly More Interesting Crimea"
-supported_version="1.5.0.2"
+supported_version="1.5.*"
