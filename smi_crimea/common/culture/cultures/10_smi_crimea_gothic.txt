@@ -1,5 +1,5 @@
 ﻿crimean_gothic = {
-	color = saxon
+	color = { 94 80 102 }
 	
 	ethos = ethos_bellicose
 	heritage = heritage_central_germanic
