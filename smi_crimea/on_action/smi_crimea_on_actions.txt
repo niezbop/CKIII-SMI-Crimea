@@ -1,0 +1,9 @@
+﻿on_game_start_after_lobby = {
+	culture:crimean_gothic = {
+		change_cultural_acceptance = {
+			target = culture:greek
+			value = 30
+			desc = cultural_acceptance_historical_relations
+		}
+	}
+}

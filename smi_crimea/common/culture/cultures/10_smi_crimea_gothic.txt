@@ -1,0 +1,28 @@
+﻿crimean_gothic = {
+	color = saxon
+	
+	ethos = ethos_bellicose
+	heritage = heritage_central_germanic
+	language = language_central_germanic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_martial_admiration
+		tradition_stand_and_fight
+		tradition_mountaineers
+	}
+	
+	name_list = name_list_visigothic
+
+	coa_gfx = { western_coa_gfx } 
+	building_gfx = { western_building_gfx } 
+	clothing_gfx = { northern_clothing_gfx } 
+	unit_gfx = { western_unit_gfx } 	
+
+	ethnicities = {
+		20 = caucasian_blond
+		10 = caucasian_ginger
+		35 = caucasian_brown_hair
+		25 = caucasian_dark_hair
+		10 = mediterranean
+	}
+}
