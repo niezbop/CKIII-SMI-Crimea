@@ -1,9 +1,17 @@
 ﻿on_game_start_after_lobby = {
-	culture:crimean_gothic = {
-		change_cultural_acceptance = {
-			target = culture:greek
-			value = 30
-			desc = cultural_acceptance_historical_relations
+	on_actions = {
+		smi_crimea_increase_cultural_acceptance_action
+	}
+}
+
+smi_crimea_increase_cultural_acceptance_action = {
+	effect = {
+		culture:crimean_gothic = {
+			change_cultural_acceptance = {
+				target = culture:greek
+				value = 20 # No need to increase much more, they already share faith
+				desc = cultural_acceptance_historical_relations
+			}
 		}
 	}
 }
