@@ -1,0 +1,95 @@
+﻿name_list_crimean_gothic = {
+
+	cadet_dynasty_names = {
+		"dynn_Amaling"
+		"dynn_Hasding"
+		"dynn_Erwigiana"
+		"dynn_Kindasuinthiana"
+		"dynn_Athanagildid"
+		"dynn_Sigireik"
+		"dynn_Gaisalaik"
+		"dynn_Thiudis"
+		"dynn_Liwa"
+		"dynn_Guntimer"
+		"dynn_Swinthila"
+		"dynn_Tulga"
+		"dynn_Hairwig"
+		"dynn_Witiza"
+		"dynn_Rotreik"
+		"dynn_Lewigild"
+		"dynn_Walja"
+		"dynn_Witireik"
+		"dynn_Sisibaud"
+		"dynn_Kindila"
+		"dynn_Wanbs"
+		"dynn_Abonid"
+		"dynn_Smeldiging"
+		"dynn_Unwanid"
+		"dynn_Hessing"
+	}
+	
+	dynasty_names = {
+		"dynn_Amaling"
+		"dynn_Hasding"
+		"dynn_Erwigiana"
+		"dynn_Kindasuinthiana"
+		"dynn_Athanagildid"
+		"dynn_Sigireik"
+		"dynn_Gaisalaik"
+		"dynn_Thiudis"
+		"dynn_Liwa"
+		"dynn_Guntimer"
+		"dynn_Swinthila"
+		"dynn_Tulga"
+		"dynn_Hairwig"
+		"dynn_Witiza"
+		"dynn_Rotreik"
+		"dynn_Lewigild"
+		"dynn_Walja"
+		"dynn_Witireik"
+		"dynn_Sisibaud"
+		"dynn_Kindila"
+		"dynn_Wanbs"
+		"dynn_Abonid"
+		"dynn_Smeldiging"
+		"dynn_Unwanid"
+		"dynn_Hessing"
+	}
+
+	male_names = {
+		Adalbrand Adam Adoric Agila Alaric Altfrid Anagasts Atawulfs Athanaric Aurelio Amadeus Asig Badamundus Bairika
+		Baldaric Baldemarius Baltarius Batja Bruno Burchard Commundus Dagalaifs Dagamers Dagawalds Dans Detmar
+		Donegildus Dulcemirus Eboric Eisindus Ermengar Fafila Frederic Fredoaldus Froatingus Fulkamers Fulkawins
+		Gaisamers Gaujaric Gauts Geila Geilamers Gelder Gumarius Gundemar Guttier Haimaric Hariwulfs Hermeric Hilderic
+		Huniscus Ingilds Inwilja Ioannes Khintila Kniwa Konigasts Konimund Kyrila Leoderigus Leovigildo Liuva
+		Liuvericho Lucidio Lupo Mervigius Miron Monnio Nunno Obada Oddilon Oppa Othalaric Reinmar Reirigus Reikahardus
+		Ricimers Rocesthes Roderic Rostan Rudigar Sans Savaric Sigismund Sigiric Suinthila Sunearic Teja Theoderedus Thankmar
+		Theoderic Theodoric Tiudawalds Tulga Uftaharic Uftila Veremund Villisenda Wiljaric Witiza Witteric Wolfram
+	}
+	female_names = {
+		Addila Adelheid Alatrudia Aniedrudia Ansetrudia Bagina Berina Bertha Bisina Bithild Brigida Cisilo Dadilo Dagadruida
+		Desteilli Drusilla Ebragundia Ebrildi Eldegundia Entrudi Ermedrudia Ermildi
+		Fradegundia Framilli Fremosilli Frogildi Fronosili Frumildi Gelvira Genlo Godoigia Goldrerona Granilo
+		Guandilo Gundiverga Guntedrudia Irmgard Irminburg Kindiverga Kunigunde Luitgard Margilli Mechthild Mirosinda
+		Ragesenda Raniverta Recerona Recesenda Recesuinda Rezevera Riquilo Rudilo Senuita Sindiverga
+		Sisilli Sisiverta Sitividis Sontrilli Sparuildi Stodildi Tanquilli Tederona Tenildi Teodevirga Teodiverta Teodoriga
+		Teudileova Tiedburga Tractuilli Trasavara Trasmira Trastivigia Vergina Viscaverga Vistrildi Wiltrud Wulfhild Zanina
+	}
+
+	dynasty_of_location_prefix = "dynnp_af"
+
+	patronym_suffix_male = "dynnpat_suf_sunu"
+	patronym_suffix_female = "dynnpat_suf_sdohtar"
+	always_use_patronym = yes	
+
+	# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+	pat_grf_name_chance = 30
+	mat_grf_name_chance = 5
+	father_name_chance = 10
+	
+	# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+	pat_grm_name_chance = 10
+	mat_grm_name_chance = 40
+	mother_name_chance = 5
+	
+}
