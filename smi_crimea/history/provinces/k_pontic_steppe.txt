@@ -1,7 +1,7 @@
 #k_pontic_steppe
 ##d_yedisan ###################################
 ###c_odessa
-5268 = {	#Odessa
+543 = {	#Kara-Kerman
 	culture = mogyer
 	religion = magyar_pagan
 	#holding = castle_holding
@@ -13,7 +13,7 @@
 5267 = {	#Tiraspol
 	holding = none
 }
-543 = {		#Okachiv
+5268 = {	#Odessa
 	holding = none	
 }
 542 = {		#Odessa
@@ -24,7 +24,7 @@
 5257 = {	#Ladyzyn
 	culture = mogyer
 	religion = magyar_pagan
-	#holding = castle_holding
+	holding = tribal_holding
 	895.1.2 = {
 		culture = pecheneg
 		religion = tengri_pagan
