@@ -29,6 +29,11 @@ This mod is [b]Ironman Compatible[/b] but will [b]disable Achievements[/b].
 [/list]
 
 [h1]Links[/h1]
-You may also be interested in my other mod, [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2765890006]Slightly More Interesting Russia[/url]
+You may also be interested in my other mods!
+[list]
+[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2833935905]A few more Emerging Culture Names[/url]
+[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2765890006]Slightly More Interesting Russia[/url]
+[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2854434625]Syncretic Special Buildings[/url]
+[/list]
 
 This project can be found on [url=https://github.com/niezbop/CKIII-SMI-Crimea]Github[/url]
