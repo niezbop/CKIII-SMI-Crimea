@@ -2,7 +2,7 @@
 	color = { 94 80 102 }
 	created = 300.1.1
 	parents = { gothic }
-	
+
 	ethos = ethos_bellicose
 
 	heritage = heritage_gothic
@@ -14,13 +14,13 @@
 		tradition_stand_and_fight
 		tradition_mountaineers
 	}
-	
+
 	name_list = name_list_crimean_gothic
 
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
-	clothing_gfx = { northern_clothing_gfx byzantine_clothing_gfx } 
-	unit_gfx = { northern_unit_gfx } 	
+	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { northern_clothing_gfx byzantine_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
 
 	ethnicities = {
 		20 = caucasian_northern_blond
