@@ -1,9 +1,13 @@
 ﻿crimean_gothic = {
 	color = { 94 80 102 }
+	created = 300.1.1
+	parents = { gothic }
 	
 	ethos = ethos_bellicose
-	heritage = heritage_central_germanic
+
+	heritage = heritage_gothic
 	language = language_central_germanic
+
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_martial_admiration
@@ -13,7 +17,7 @@
 	
 	name_list = name_list_crimean_gothic
 
-	coa_gfx = { western_coa_gfx } 
+	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
 	building_gfx = { mediterranean_building_gfx } 
 	clothing_gfx = { northern_clothing_gfx } 
 	unit_gfx = { western_unit_gfx } 	
