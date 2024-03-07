@@ -23,10 +23,14 @@
 	unit_gfx = { northern_unit_gfx } 	
 
 	ethnicities = {
+		20 = caucasian_northern_blond
+		10 = caucasian_northern_ginger
+		10 = caucasian_northern_brown_hair
+		10 = caucasian_northern_dark_hair
 		20 = caucasian_blond
 		10 = caucasian_ginger
-		35 = caucasian_brown_hair
-		25 = caucasian_dark_hair
+		20 = caucasian_brown_hair
+		10 = caucasian_dark_hair
 		10 = mediterranean
 	}
 }
