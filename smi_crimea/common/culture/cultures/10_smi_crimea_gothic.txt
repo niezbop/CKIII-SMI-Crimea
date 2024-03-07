@@ -6,7 +6,7 @@
 	ethos = ethos_bellicose
 
 	heritage = heritage_gothic
-	language = language_central_germanic
+	language = language_crimean_gothic
 
 	martial_custom = martial_custom_male_only
 	traditions = {
