@@ -1,8 +1,8 @@
-version="1.0.0"
+version="1.0.1"
 tags={
 	"Portraits"
 	"Culture"
 	"Graphics"
 }
 name="Slightly More Interesting Crimea - Flavour"
-supported_version="1.6.*"
+supported_version="1.12.*"
